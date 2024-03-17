@@ -23,12 +23,6 @@ ft_printf is a reimplementation of the standard printf function of the C languag
 ### **Compilation**
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/HaruSnak/libft.git
-
-# Go into the repository
-$ cd libft
-
 # To compile the program
 $ make
 
